@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width: 960px;
+  font-size: 18px;
+}
+Header{
+  background: #ebebeb;
+  text-align: center;
+  font-size: 35px;
+  padding: 30px;
+}
+h1 {
+  color:#777;
+  background: #ebebeb;
+}
